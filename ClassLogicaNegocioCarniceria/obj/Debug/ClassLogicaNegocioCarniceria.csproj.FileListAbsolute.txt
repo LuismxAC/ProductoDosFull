@@ -1,0 +1,11 @@
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\ClassLogicaNegocioCarniceria.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\ClassLogicaNegocioCarniceria.pdb
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\ClassCapaEntidades.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\MiAccesoSQL.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\ClassCapaEntidades.pdb
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\bin\Debug\MiAccesoSQL.pdb
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csproj.CopyComplete
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.pdb

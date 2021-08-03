@@ -1,0 +1,6 @@
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\bin\Debug\MiAccesoSQL.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\bin\Debug\MiAccesoSQL.pdb
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\obj\Debug\MiAccesoSQL.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\obj\Debug\MiAccesoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\obj\Debug\MiAccesoSQL.dll
+C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\MiAccesoSQL\obj\Debug\MiAccesoSQL.pdb
