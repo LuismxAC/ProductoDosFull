@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="css\img.png" />
     <Content Include="index.aspx" />
+    <Content Include="InicioCli.aspx" />
     <Content Include="js\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -79,6 +80,13 @@
     </Compile>
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InicioCli.aspx.cs">
+      <DependentUpon>InicioCli.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InicioCli.aspx.designer.cs">
+      <DependentUpon>InicioCli.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

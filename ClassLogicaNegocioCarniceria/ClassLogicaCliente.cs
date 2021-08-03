@@ -118,6 +118,60 @@ namespace ClassLogicaNegocioCarniceria
             cnxTemp.Dispose();
             return status;
         }
+
+        public List<Cliente> MuestraClientes(ref string m, ref string i, ref string t)
+        {
+            SqlConnection cnxTemp = null;
+            string q1 = "SELECT * FROM Cliente";
+
+            cnxTemp = Objacceso.AbrirConexion(ref m, ref i, ref t);
+            SqlDataReader atrapa = null;
+            atrapa = Objacceso.ConsultaDataReader(q1, cnxTemp, ref m, ref i, ref t);
+
+            List<Cliente> salida = new List<Cliente>();
+
+            if (atrapa != null)
+            {
+                while (atrapa.Read())
+                {
+                    salida.Add(new Cliente
+                    {
+                        id_Cliente = (int)atrapa[0],
+                        Nombre = (string)atrapa[1],
+                        App = (string)atrapa[2],
+                        ApM = (string)atrapa[3],
+                        Celular = (string)atrapa[4],
+                        Correo = (string)atrapa[5]
+                    });
+                }
+            }
+            else
+            {
+                salida = null;
+            }
+            cnxTemp.Close();
+            cnxTemp.Dispose();
+            return salida;
+        }
+        public DataTable CLientesGrid(ref string m, ref string i, ref string t)
+        {
+            string query2 = "SELECT * FROM Cliente";
+            DataSet atrapa = null;
+            DataTable tablaSalida = null;
+
+            atrapa = Objacceso.ConsultaDataSet(query2, Objacceso.AbrirConexion(ref m, ref i, ref t), ref m, ref i, ref t);
+
+            if (atrapa != null)
+            {
+                tablaSalida = atrapa.Tables[0];
+                if (atrapa.Tables[0].Rows.Count == 0)
+                {
+                    tablaSalida.Rows.Add(tablaSalida.NewRow());
+                }
+
+            }
+            return tablaSalida;
+        }
     }
 
 
