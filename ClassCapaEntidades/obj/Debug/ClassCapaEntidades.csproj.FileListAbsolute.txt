@@ -4,3 +4,9 @@ C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassCapaEntidades\obj\Debu
 C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.csproj.CoreCompileInputs.cache
 C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.dll
 C:\Users\Casa\Documents\GuillermoUTP\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.pdb
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\bin\Debug\ClassCapaEntidades.dll
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\bin\Debug\ClassCapaEntidades.pdb
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.csprojAssemblyReference.cache
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.dll
+C:\Users\Leopardo\Documents\GitHub\ProductoDosFull\ClassCapaEntidades\obj\Debug\ClassCapaEntidades.pdb
